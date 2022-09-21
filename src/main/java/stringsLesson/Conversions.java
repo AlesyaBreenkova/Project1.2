@@ -4,6 +4,7 @@ public class Conversions {
 
     public static void main(String[] args) {
         String txt="5";
+        String txt="6";
         int intTxt = Integer.parseInt(txt);
                 int result=intTxt + 2;
         System.out.println(result);

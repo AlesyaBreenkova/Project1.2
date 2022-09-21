@@ -8,7 +8,6 @@ import org.junit.jupiter.params.provider.MethodSource;
 import org.junit.jupiter.params.provider.ValueSource;
 
 import java.util.stream.Stream;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 public class CalculatorTest {
@@ -59,7 +58,6 @@ public class CalculatorTest {
 
 
     @Test
-
     public void summaryTest() {
         double a = 5;
         double b = 6;

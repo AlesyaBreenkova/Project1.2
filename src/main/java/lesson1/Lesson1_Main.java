@@ -3,8 +3,8 @@ package lesson1;
 public class Lesson1_Main {
 
     public static void main(String[] args) {
-
         String textToprint = "Hello";
+        String textToPrintinFrench = "Bonjour";
         String nameToprint = "Alesia Breenkova";
         System.out.println(textToprint);
         System.out.println(nameToprint);
